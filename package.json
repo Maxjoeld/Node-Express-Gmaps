@@ -1,0 +1,23 @@
+{
+  "name": "node-express-gmaps",
+  "version": "1.0.0",
+  "description": "Topics:\r  * APIs\r  * API Documentation\r  * Rate Limits\r  * Multiple requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxjoeld/Node-Express-Gmaps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxjoeld/Node-Express-Gmaps/issues"
+  },
+  "homepage": "https://github.com/Maxjoeld/Node-Express-Gmaps#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-fetch": "^2.1.1"
+  }
+}
